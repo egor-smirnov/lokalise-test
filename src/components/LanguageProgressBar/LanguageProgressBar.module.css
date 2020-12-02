@@ -1,0 +1,28 @@
+.percentageBlock {
+  position: relative;
+  height: 2px;
+  margin-top: 14px;
+  margin-bottom: 11px;
+  background: #cfcfcf;
+}
+
+.innerPercentageBlock {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: red;
+  height: 2px;
+}
+
+.innerPercentageBlockRed {
+  background: #DB1F35;
+}
+
+.innerPercentageBlockYellow {
+  background: #FFC500;
+}
+
+.innerPercentageBlockBlue {
+  background: #5489DC;
+}
+

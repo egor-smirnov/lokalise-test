@@ -1,0 +1,32 @@
+.languageDetailsBlock {
+  width: 25%;
+  min-width: 201px;
+  padding-right: 31px;
+  padding-bottom: 31px;
+}
+
+.languageTitle {
+  font-size: 13px;
+  line-height: 15px;
+  color: #5489dc;
+  margin: 0;
+  padding-left: 6px;
+}
+
+.languageSubTitle {
+  font-size: 10px;
+  line-height: 12px;
+  text-transform: uppercase;
+  padding-bottom: 2px;
+  word-break: keep-all;
+  margin: 0;
+}
+
+.languageValue {
+  font-size: 17px;
+  line-height: 20px;
+}
+
+.languageHighlightedValue {
+  color: #5489dc;
+}
